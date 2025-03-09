@@ -11,6 +11,5 @@
 
 
 ## Меня можно найти и связаться здесь
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-090909?style=for-the-badge&logo=HuggingFace&logoColor=yellow)](https://huggingface.co/Vatislo)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/FAD55544)
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
