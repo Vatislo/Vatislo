@@ -1,5 +1,5 @@
-<div align="center">
-<img src="./src/влад.jpg" height="200">
+<div>
+<img src="./src/Logic.png" height="200">
 </div>
 
 # Привет, меня зовут Влад!
