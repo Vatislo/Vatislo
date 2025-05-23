@@ -17,5 +17,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatislo&hide_border=true&disable_animations=true&theme=dark&locale=ru&bg_color=000)
 
 ## Меня можно найти и связаться здесь
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/FAD55544)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Vatislo)
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
