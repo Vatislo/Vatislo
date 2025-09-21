@@ -1,6 +1,6 @@
 # Hello, my name Vladisav!
 
-I'm a front-end developer, but I'm still learning. I love everything related to PC software.
+I'm a front-end developer, but I'm still learning. I love everything related to PC software.cle
 
 ## Skills
 
@@ -20,3 +20,4 @@ I'm a front-end developer, but I'm still learning. I love everything related to 
 
 ## Contacts
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
+[![Codeberg](https://img.shields.io/badge/-Codeberg-090909?style=for-the-badge&logo=Codeberg)](https://codeberg.org/Vatislo)
