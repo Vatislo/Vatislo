@@ -19,5 +19,6 @@ I'm a front-end developer, but I'm still learning. I love everything related to 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatislo\&layout=compact&hide_border=true&disable_animations=true&theme=dark&locale=ru&bg_color=000&card_width=450)
 
 ## Contacts
-[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)](https://github.com/Vatislo)
 [![Codeberg](https://img.shields.io/badge/-Codeberg-090909?style=for-the-badge&logo=Codeberg)](https://codeberg.org/Vatislo)
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
